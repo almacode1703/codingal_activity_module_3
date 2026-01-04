@@ -29,3 +29,8 @@
 1) Activity-1 : Cards
 2) Activity-2 : Spinner
 3) Activity-3 : Pagination
+
+
+# Lesson 6:
+1) Activity 1 : Carousel
+2) Activity 2: Scroll
