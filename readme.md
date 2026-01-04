@@ -11,3 +11,9 @@
 1. Activity-1 : Bootstrap Typography
 2. Activity-2 : mark and code
 3. Activity-3 : abbr, kbd, pre, blockquote 
+
+# Lesson 3:
+
+1. Activity-1: Container Class
+2. Activity-2: Container Fluid
+3. Activity-3: Color & Border
