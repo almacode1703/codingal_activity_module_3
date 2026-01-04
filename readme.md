@@ -23,3 +23,9 @@
 1. Activity-1: Jumbotrons, Buttons
 2. Activity-2: Badges
 3. Activity-2: Progress bar
+
+# Lesson 5:
+
+1) Activity-1 : Cards
+2) Activity-2 : Spinner
+3) Activity-3 : Pagination
