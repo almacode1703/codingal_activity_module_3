@@ -17,3 +17,9 @@
 1. Activity-1: Container Class
 2. Activity-2: Container Fluid
 3. Activity-3: Color & Border
+
+# Lesson 4:
+
+1. Activity-1: Jumbotrons, Buttons
+2. Activity-2: Badges
+3. Activity-2: Progress bar
